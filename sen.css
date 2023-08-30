@@ -29,10 +29,21 @@
     
     .ic{
        
-        width: 105%;
+        width: 12%;
     }
     
     .cr{
         margin-right: 90%;
         width: 100%;
+    }
+      
+    .us{
+       
+        width: 10%;
+    }
+
+   .overflow-auto {
+        property: overflow,
+
+        values: auto hidden visible scroll,
     }
